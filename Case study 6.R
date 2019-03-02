@@ -1,5 +1,5 @@
  
-                #  Case Study 6 - Text Mining
+                #  Project 6 - Text Mining
 
 #  Loading the required libraries:
 
